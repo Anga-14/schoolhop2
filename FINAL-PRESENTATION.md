@@ -33,7 +33,7 @@
 
 ## Slide 7 — Testing, limitations, and launch gates
 - Local checks: JavaScript syntax, form submissions, local counts, and dashboard recalculation.
-- Limitations: no production API/CRM, no email credentials, no verified live campaign data, and Pages deployment is pending the first successful workflow run.
+- Limitations: no production API/CRM, no email credentials, and no verified live campaign data. The static site is live on GitHub Pages.
 - Production use requires privacy/accessibility review, a secure backend, analytics/email setup, and end-to-end tests of those integrations.
 
 ## Slide 8 — Individual contribution and reflection
