@@ -4,7 +4,7 @@ Responsive campaign prototype for SchoolHop Foundation, a nonprofit focused on r
 
 ## Live site
 
-Published with GitHub Pages: <https://anga-14.github.io/schoolhop2/>
+Planned GitHub Pages URL after the first successful deployment: <https://anga-14.github.io/schoolhop2/>
 
 GitHub repository: <https://github.com/Anga-14/schoolhop2>
 
@@ -45,4 +45,4 @@ Dashboard rates and social engagement examples are illustrative assumptions, not
 
 ## Deployment status
 
-The GitHub Pages workflow deploys the static site from the `main` branch. The first deployment completes after GitHub Pages is enabled for the repository and the workflow succeeds. Forms still use browser-local storage; there is no production API/CRM, and email delivery is not configured. Do not use this prototype to collect real personal, learner, donor, or sensitive data.
+The GitHub Pages workflow is prepared, but the deployment commit has not yet been pushed. After it is pushed to `main`, confirm the Pages workflow succeeds before treating the URL above as live. Forms still use browser-local storage; there is no production API/CRM, and email delivery is not configured. Do not use this prototype to collect real personal, learner, donor, or sensitive data.
